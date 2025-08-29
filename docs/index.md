@@ -1,14 +1,32 @@
-# Portafolio
+#Portafolio 
+# Sobre mí
 
-Bienvenido 👋  
-Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) para cursos y proyectos.
+<p align="center">
+  <img src="assets/foto.jpg" alt="Foto de Salamanca Esquivel Eduardo" width="200" style="border-radius:50%;"/>
+</p>
+
+## 👋 Hola, soy Salamanca Esquivel Eduardo
+
+Soy **Estudiante de Ingeniería Mecatrónica en IBERO Puebla**.  
+Me interesan **el deporte**, **la mecánica** y **la tecnología**.  
 
 ---
 
-## Empezar rápido (3 pasos)
+## 📫 Contacto
+- 📧 **Correo institucional:** [203279@iberopuebla.mx](mailto:203279@iberopuebla.mx)  
 
-1. **Edita el nombre del sitio** en `mkdocs.yml`:
-   ```yaml
-   site_name: Documentación del Curso
-   theme:
-     name: Eduardo Salamanca Esquivel
+---
+
+## 🏆 De lo que me siento orgulloso
+
+### **[Aquí va tu proyecto o logro]**
+(Agrega el nombre de tu proyecto, logro o taller del que te sientas orgulloso).  
+- 🔗 Repositorio: [link al repo]  
+- 🚀 Demo: [enlace a demo si aplica]  
+- 🛠️ Tecnologías: [lista breve]  
+- 📈 Impacto/resultado: [ejemplo: "Mejoré X proceso en un 40%"]  
+
+---
+
+## ✨ Extra
+> "La constancia vence al talento cuando el talento no se esfuerza."
