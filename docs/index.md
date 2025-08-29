@@ -1,5 +1,5 @@
-#Portafolio 
-# Sobre mí
+# Portafolio 
+## Sobre mí
 
 <p align="center">
   <img src="assets/foto.jpg" alt="Foto de Salamanca Esquivel Eduardo" width="200" style="border-radius:50%;"/>
