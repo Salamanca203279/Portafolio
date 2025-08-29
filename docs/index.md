@@ -2,7 +2,8 @@
 ## Sobre mí
 
 <p align="center">
-  <img src="assets/foto.jpg" alt="Foto de Salamanca Esquivel Eduardo" width="200" style="border-radius:50%;"/>
+  <img src="recursos/imgs/IMG_20241112_161429.jpg"
+ alt="Foto de Salamanca Esquivel Eduardo" width="200" style="border-radius:50%;"/>
 </p>
 
 ## 👋 Hola, soy Salamanca Esquivel Eduardo
