@@ -21,7 +21,7 @@ Me interesan **el deporte**, **la mecánica** y **la tecnología**.
 ##  De lo que me siento orgulloso
 
 ### **[proyecto o logro]**
-(nombre dproyecto, logro o taller.).  
+Calculadora binaria con arduino UNO.  
 
 
 ---
