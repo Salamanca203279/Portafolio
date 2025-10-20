@@ -1,4 +1,4 @@
-# 💡 Control de LED y Actuadores con ESP32
+#  Control de LED y Actuadores con ESP32
 
 ##  1) Resumen
 
@@ -28,7 +28,7 @@
 
 ---
 
-## ⚙️ 3) Alcance y Exclusiones
+##  3) Alcance y Exclusiones
 
 - **Incluye:**
   - Control de LED por Bluetooth.  
@@ -177,12 +177,3 @@ void loop() {
 - Este proyecto sienta la base para aplicaciones IoT más complejas con sensores y automatización.
 
 ---
-
-##  8) Referencias
-
-- [Documentación oficial del ESP32](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)  
-- [Referencia de la librería Servo en Arduino](https://www.arduino.cc/reference/en/libraries/servo/)  
-- [Bluetooth Serial en ESP32 - Ejemplos](https://randomnerdtutorials.com/esp32-bluetooth-classic-arduino-ide/)  
-
----
-
