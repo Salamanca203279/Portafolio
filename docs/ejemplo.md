@@ -4,8 +4,7 @@
 
 - **Nombre del proyecto:** Control de LED y Actuadores con ESP32  
 - **Autor:** Eduardo Salamanca  
-- **Curso / Asignatura:** Electrónica / Sistemas Embebidos / IoT  
-- **Fecha:** 20/10/2025  
+- **Curso / Asignatura:**  Introducción a ala mecatrónica
 - **Descripción breve:**  
   Este proyecto combina dos prácticas de control básico con el microcontrolador ESP32:  
   1. Encendido de un LED mediante Bluetooth.  
