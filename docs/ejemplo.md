@@ -97,11 +97,10 @@ void loop() {
 > - `'1'` → Enciende el LED  
 > - `'0'` → Apaga el LED  
 
-https://youtube.com/shorts/d5sxEI43tqk?si=GdzI6c9nHzy7hzp4
 ---
 
 ### B) Control de motor DC (giro y velocidad)
-
+https://youtube.com/shorts/d5sxEI43tqk?si=GdzI6c9nHzy7hzp4
 ```cpp
 int ENA = 5;   // PWM (velocidad)
 int IN1 = 18;  // Dirección
@@ -182,6 +181,7 @@ https://youtube.com/shorts/a2bWCtpGgGk?si=q9Ydl6QjXMjFGHZ1
 https://youtube.com/shorts/nBANxXbmY7s?si=MIo1eOWCzVp5HbND
 
 https://youtu.be/kR5TwPrPkgA?si=2ifdoAEf_vBL3Dr5
+
 ---
 #  Proyecto 2 – Coche Omnidireccional Controlado por Bluetooth (ESP32 + Xbox Controller)
 
