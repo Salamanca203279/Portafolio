@@ -68,6 +68,7 @@
 ---
 
 ## 5) Instalación y Configuración
+https://youtube.com/shorts/uz_2YryQJPw?si=gdgGDYm6nZkS1PoI
 
 ### A) Control de LED por Bluetooth
 
@@ -96,6 +97,7 @@ void loop() {
 > - `'1'` → Enciende el LED  
 > - `'0'` → Apaga el LED  
 
+https://youtube.com/shorts/d5sxEI43tqk?si=GdzI6c9nHzy7hzp4
 ---
 
 ### B) Control de motor DC (giro y velocidad)
@@ -175,14 +177,19 @@ void loop() {
 - Se integraron conceptos de programación, electrónica y comunicación inalámbrica.  
 - Este proyecto sienta la base para aplicaciones IoT más complejas con sensores y automatización.
 
+https://youtube.com/shorts/a2bWCtpGgGk?si=q9Ydl6QjXMjFGHZ1
+
+https://youtube.com/shorts/nBANxXbmY7s?si=MIo1eOWCzVp5HbND
+
+https://youtu.be/kR5TwPrPkgA?si=2ifdoAEf_vBL3Dr5
 ---
-# 🤖 Proyecto 2 – Coche Omnidireccional Controlado por Bluetooth (ESP32 + Xbox Controller)
+#  Proyecto 2 – Coche Omnidireccional Controlado por Bluetooth (ESP32 + Xbox Controller)
 
-> 🚀 Proyecto académico de control de movimiento y actuadores, integrando el ESP32 con comunicación Bluetooth y llantas omnidireccionales.
+>  Proyecto académico de control de movimiento y actuadores, integrando el ESP32 con comunicación Bluetooth y llantas omnidireccionales.
 
 ---
 
-## 1️⃣ Resumen
+## 1️ Resumen
 
 - **Nombre del proyecto:** Coche de Futbol Bluetooth con ESP32  
 - **Equipo / Autor(es):** Eduardo Salamanca y equipo  
@@ -194,7 +201,7 @@ void loop() {
 
 ---
 
-## 2️⃣ Objetivos
+## 2️ Objetivos
 
 - **General:**  
   Diseñar e implementar un sistema móvil controlado por Bluetooth que permita controlar la dirección, velocidad y rotación mediante un control inalámbrico.
@@ -208,7 +215,7 @@ void loop() {
 
 ---
 
-## 3️⃣ Alcance y Exclusiones
+## 3️ Alcance y Exclusiones
 
 - **Incluye:**  
   - Control inalámbrico con Bluetooth.  
@@ -223,7 +230,7 @@ void loop() {
 
 ---
 
-## 4️⃣ Requisitos
+## 4️ Requisitos
 
 ### 🧠 Software
 - **IDE:** Arduino IDE (versión más reciente)  
@@ -245,7 +252,7 @@ void loop() {
 
 ---
 
-## 5️⃣ Código Principal (ESP32)
+## 5️ Código Principal (ESP32)
 
 ```cpp
 #include "BluetoothSerial.h"
