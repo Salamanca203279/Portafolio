@@ -68,7 +68,7 @@
 ---
 
 ## 5) Instalación y Configuración
-https://youtube.com/shorts/uz_2YryQJPw?si=gdgGDYm6nZkS1PoI
+[Enlace directo](https://youtube.com/shorts/uz_2YryQJPw?si=gdgGDYm6nZkS1PoI)
 
 ### A) Control de LED por Bluetooth
 
@@ -100,7 +100,7 @@ void loop() {
 ---
 
 ### B) Control de motor DC (giro y velocidad)
-https://youtube.com/shorts/d5sxEI43tqk?si=GdzI6c9nHzy7hzp4
+[Enlace directo](https://youtube.com/shorts/d5sxEI43tqk?si=GdzI6c9nHzy7hzp4)
 ```cpp
 int ENA = 5;   // PWM (velocidad)
 int IN1 = 18;  // Dirección
@@ -176,16 +176,17 @@ void loop() {
 - Se integraron conceptos de programación, electrónica y comunicación inalámbrica.  
 - Este proyecto sienta la base para aplicaciones IoT más complejas con sensores y automatización.
 
-https://youtube.com/shorts/a2bWCtpGgGk?si=q9Ydl6QjXMjFGHZ1
+[Enlace directo](https://youtube.com/shorts/a2bWCtpGgGk?si=q9Ydl6QjXMjFGHZ1)
 
-https://youtube.com/shorts/nBANxXbmY7s?si=MIo1eOWCzVp5HbND
+[Enlace directo](https://youtube.com/shorts/nBANxXbmY7s?si=MIo1eOWCzVp5HbND)
 
-https://youtu.be/kR5TwPrPkgA?si=2ifdoAEf_vBL3Dr5
+[Enlace directo](https://youtu.be/kR5TwPrPkgA?si=2ifdoAEf_vBL3Dr5)
 
 ---
 #  Proyecto 2 – Coche Omnidireccional Controlado por Bluetooth (ESP32 + Xbox Controller)
 
 >  Proyecto académico de control de movimiento y actuadores, integrando el ESP32 con comunicación Bluetooth y llantas omnidireccionales.
+[Enlace directo](https://youtube.com/shorts/Kpeg7VFwfDc?si=IWb2UG_srBYI-B7H)
 
 ---
 
@@ -232,14 +233,14 @@ https://youtu.be/kR5TwPrPkgA?si=2ifdoAEf_vBL3Dr5
 
 ## 4️ Requisitos
 
-### 🧠 Software
+###  Software
 - **IDE:** Arduino IDE (versión más reciente)  
 - **Plataforma:** ESP32 Dev Module  
 - **Librerías necesarias:**  
   - `BluetoothSerial.h`  
   - `Servo.h`  
 
-### ⚙️ Hardware
+###  Hardware
 - ESP32  
 - 4 llantas omnidireccionales  
 - 2 puentes H L298N  
@@ -345,3 +346,5 @@ void loop() {
     }
   }
 }
+
+
