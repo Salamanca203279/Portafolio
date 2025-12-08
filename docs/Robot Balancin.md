@@ -168,7 +168,7 @@ try:
     print(f" ¡Conectado al ESP32 en {esp32_port}!")
 except serial.SerialException as e:
     print(f" Error de conexión serial: {e}")
-    print("\n🔧 Posibles soluciones:")
+    print("\n Posibles soluciones:")
     print("   1. Verifica que el puerto COM sea correcto")
     print("   2. Cierra el IDE de Arduino si está abierto")
     print("   3. Cierra cualquier monitor serial activo")
