@@ -21,7 +21,9 @@ Me interesan **el deporte**, **la mecánica** y **la tecnología**.
 ##  De lo que me siento orgulloso
 
 ### **[proyecto o logro]**
+
 Calculadora binaria con arduino UNO.  
+
 Maquina de estados de puente elevadizo
 
 Robot de balance mediante detección con cámara
