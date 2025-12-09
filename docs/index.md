@@ -23,6 +23,7 @@ Me interesan **el deporte**, **la mecánica** y **la tecnología**.
 ### **[proyecto o logro]**
 Calculadora binaria con arduino UNO.  
 Maquina de estados de puente elevadizo
+
 Robot de balance mediante detección con cámara
 
 ---
