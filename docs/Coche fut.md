@@ -1,4 +1,4 @@
-#  Proyecto 2 – Coche Omnidireccional Controlado por Bluetooth (ESP32 + Xbox Controller)
+# Coche Omnidireccional Controlado por Bluetooth (ESP32 + Xbox Controller)
 
 >  Proyecto académico de control de movimiento y actuadores, integrando el ESP32 con comunicación Bluetooth y llantas omnidireccionales.
 [Enlace directo](https://youtube.com/shorts/Kpeg7VFwfDc?si=IWb2UG_srBYI-B7H)
@@ -71,17 +71,17 @@
 ## 5️ Código Principal (ESP32)
 
 ```cpp
-#include "BluetoothSerial.h"
-#include <Servo.h>
+include "BluetoothSerial.h"
+include <Servo.h>
 
 BluetoothSerial SerialBT;
 
-#define ENA 25
-#define IN1 26
-#define IN2 27
-#define IN3 14
-#define IN4 12
-#define ENB 13
+define ENA 25
+define IN1 26
+define IN2 27
+define IN3 14
+define IN4 12
+define ENB 13
 
 Servo servo;
 
