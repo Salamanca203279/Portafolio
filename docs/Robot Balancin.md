@@ -62,19 +62,6 @@ El robot fue construido utilizando:
 
 ---
 
-## Estructura del Proyecto
-
-```text
-Proyecto/
-├── vision_python/
-│   └── cmara_servo.py
-├── firmware_esp32/
-│   └── servos_arduino_final.ino
-└── README.md (este documento)
-```
-
----
-
 ## Funcionamiento
 
 ### 1. Detección de Plataforma
@@ -133,8 +120,12 @@ Una mala calibración del PID puede generar movimientos bruscos.
 Ajusta **Kp primero**, luego **Kd**, y finalmente **Ki**.
 
 ---
+## Mecánica
+![Multimedia](https://github.com/user-attachments/assets/925b56c5-983c-4463-8b97-83ee4fd21169)![Multimedia (1)](https://github.com/user-attachments/assets/f7d7f766-1d27-45a5-99fc-aa2649a0c96f)
+---
+## Código P
 
-## Código Python (Visión por Computadora)
+Python (Visión por Computadora)
 
 ```python
 import cv2
